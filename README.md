@@ -5,6 +5,9 @@ Rustbolge aims to be a complete transpiler for converting Rust code into the equ
 ## Roadmap
 https://trello.com/b/w9DoNlIP/rustbolge
 
+## Requirements
+You must have Rust installed and up to date on your machine in order to utilize Rustbolge.
+
 ## Copyright and Licensing
 Copyright (C) 2023  Lily Gross
 
