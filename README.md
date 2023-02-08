@@ -1,4 +1,7 @@
 # Rustbolge
+## Description
+Rustbolge aims to be a complete transpiler for converting Rust code into the equivalent Malbolge code.
+
 ## Copyright and Licensing
 Copyright (C) 2023  Lily Gross
 
@@ -14,6 +17,3 @@ GNU General Public License for more details.
 
 You should have received a copy of the GNU General Public License
 along with this program.  If not, see https://www.gnu.org/licenses/.
-
-## Description
-Rustbolge aims to be a complete transpiler for converting Rust code into the equivalent Malbolge code.
