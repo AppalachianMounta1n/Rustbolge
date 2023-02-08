@@ -2,6 +2,9 @@
 ## Description
 Rustbolge aims to be a complete transpiler for converting Rust code into the equivalent Malbolge code.
 
+## Roadmap
+https://trello.com/b/w9DoNlIP/rustbolge
+
 ## Copyright and Licensing
 Copyright (C) 2023  Lily Gross
 
